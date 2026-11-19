@@ -1,0 +1,1 @@
+After running the Colab notebook, copy cat_dog_model.keras and model_info.json into this folder.\n

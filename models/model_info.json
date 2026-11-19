@@ -1,0 +1,10 @@
+{
+  "model_name": "MobileNetV2",
+  "image_size": 160,
+  "class_mapping": {
+    "0": "Cat",
+    "1": "Dog"
+  },
+  "preprocessing": "RGB resize to 160x160; pixel values 0-1 then transform to -1..1",
+  "threshold": 0.5
+}
